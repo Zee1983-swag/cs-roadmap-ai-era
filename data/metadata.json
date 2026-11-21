@@ -1,0 +1,492 @@
+{
+  "sources": {
+    "acm": {
+      "title": "CS2023 课程框架",
+      "url": "https://csed.acm.org/final-report/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "tools": {
+      "title": "MIT Missing Semester 2026",
+      "url": "https://missing.csail.mit.edu/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "web": {
+      "title": "Full Stack Open",
+      "url": "https://fullstackopen.com/en/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "mobile": {
+      "title": "客户端路线与专项文档入口",
+      "url": "https://roadmap.sh/roadmaps",
+      "checked": "2026-11-21",
+      "kind": "目录或学习索引"
+    },
+    "systems": {
+      "title": "CS 自学指南：系统、网络、数据库、编译课程索引",
+      "url": "https://csdiy.wiki/",
+      "checked": "2026-11-21",
+      "kind": "目录或学习索引"
+    },
+    "sre": {
+      "title": "Google SRE 资料",
+      "url": "https://sre.google/books/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "quality": {
+      "title": "QA 与实践路线入口",
+      "url": "https://roadmap.sh/qa",
+      "checked": "2026-11-21",
+      "kind": "目录或学习索引"
+    },
+    "data": {
+      "title": "CS 自学指南：数据库、统计与相关课程索引",
+      "url": "https://csdiy.wiki/",
+      "checked": "2026-11-21",
+      "kind": "目录或学习索引"
+    },
+    "ml": {
+      "title": "Stanford CS229",
+      "url": "https://see.stanford.edu/Course/CS229",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "hf": {
+      "title": "Hugging Face 专项课程目录",
+      "url": "https://huggingface.co/learn",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "agents": {
+      "title": "Anthropic：工作流与智能体设计",
+      "url": "https://www.anthropic.com/research/building-effective-agents",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "context": {
+      "title": "Hugging Face Context Course",
+      "url": "https://huggingface.co/learn/context-course/unit0/introduction",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "cs336": {
+      "title": "Stanford CS336 2026",
+      "url": "https://cs336.stanford.edu/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "dlsys": {
+      "title": "CMU Deep Learning Systems",
+      "url": "https://dlsyscourse.org/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "owasp": {
+      "title": "OWASP GenAI Security",
+      "url": "https://genai.owasp.org/llm-top-10/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "security": {
+      "title": "CS 自学指南：安全与密码相关课程索引",
+      "url": "https://csdiy.wiki/",
+      "checked": "2026-11-21",
+      "kind": "目录或学习索引"
+    },
+    "nice": {
+      "title": "NIST NICE：工作角色、知识与技能",
+      "url": "https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center/resources/occupations-jobs-and-work",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "embedded": {
+      "title": "CS 自学指南：电子、体系结构与操作系统索引",
+      "url": "https://csdiy.wiki/",
+      "checked": "2026-11-21",
+      "kind": "目录或学习索引"
+    },
+    "hardware": {
+      "title": "CS 自学指南：数字设计与体系结构索引",
+      "url": "https://csdiy.wiki/",
+      "checked": "2026-11-21",
+      "kind": "目录或学习索引"
+    },
+    "robotics": {
+      "title": "Hugging Face Robotics Course",
+      "url": "https://huggingface.co/learn/robotics-course/en/unit0/1",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "graphics": {
+      "title": "CS 自学指南：图形学课程索引",
+      "url": "https://csdiy.wiki/",
+      "checked": "2026-11-21",
+      "kind": "目录或学习索引"
+    },
+    "hci": {
+      "title": "CS2023：人机交互与专业能力框架入口",
+      "url": "https://csed.acm.org/final-report/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "science": {
+      "title": "ACM Computing Curricula：学科与交叉基础",
+      "url": "https://www.acm.org/binaries/content/assets/education/curricula-recommendations/cc2020.pdf",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "product": {
+      "title": "roadmap.sh：产品与相邻职业入口",
+      "url": "https://roadmap.sh/roadmaps",
+      "checked": "2026-11-21",
+      "kind": "目录或学习索引"
+    },
+    "writing": {
+      "title": "roadmap.sh：技术写作与开发者关系入口",
+      "url": "https://roadmap.sh/roadmaps",
+      "checked": "2026-11-21",
+      "kind": "目录或学习索引"
+    },
+    "jobs": {
+      "title": "Anthropic 招聘实例：环境、沙箱、评测与系统",
+      "url": "https://www.anthropic.com/careers/jobs",
+      "checked": "2026-11-21",
+      "kind": "招聘实例；不能外推需求规模"
+    },
+    "intro": {
+      "title": "UC Berkeley CS61A：编程与抽象",
+      "url": "https://cs61a.org/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "csapp": {
+      "title": "CMU 15-213：计算机系统",
+      "url": "https://www.cs.cmu.edu/~213/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "os": {
+      "title": "MIT 6.1810：操作系统工程",
+      "url": "https://pdos.csail.mit.edu/6.1810/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "distributed": {
+      "title": "MIT 6.5840：分布式系统",
+      "url": "https://pdos.csail.mit.edu/6.5840/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "net": {
+      "title": "Stanford CS144：计算机网络",
+      "url": "https://cs144.github.io/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "db": {
+      "title": "CMU 15-445/645：数据库系统",
+      "url": "https://15445.courses.cs.cmu.edu/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "compiler": {
+      "title": "Stanford CS143：编译器",
+      "url": "https://web.stanford.edu/class/cs143/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "cs161": {
+      "title": "UC Berkeley CS161：计算机安全",
+      "url": "https://cs161.org/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "android": {
+      "title": "Android 官方训练课程",
+      "url": "https://developer.android.com/courses",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "ios": {
+      "title": "Apple Develop in Swift",
+      "url": "https://developer.apple.com/tutorials/develop-in-swift",
+      "checked": "2026-11-21",
+      "kind": "官方教程；本次页面仅返回需 JavaScript 提示，未核对全部章节"
+    },
+    "flutter": {
+      "title": "Flutter 官方文档",
+      "url": "https://docs.flutter.dev/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "qt": {
+      "title": "Qt 官方文档",
+      "url": "https://doc.qt.io/qt-6/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "k8s": {
+      "title": "Kubernetes 官方文档",
+      "url": "https://kubernetes.io/docs/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "zephyr": {
+      "title": "Zephyr RTOS 官方文档",
+      "url": "https://docs.zephyrproject.org/latest/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "nand": {
+      "title": "Nand to Tetris：数字系统与计算机构建",
+      "url": "https://www.nand2tetris.org/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "writingcourse": {
+      "title": "Google Technical Writing",
+      "url": "https://developers.google.com/tech-writing",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "lean": {
+      "title": "Lean 官方学习资源",
+      "url": "https://lean-lang.org/learn/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "games": {
+      "title": "GAMES101：现代计算机图形学",
+      "url": "https://games-cn.org/intro-graphics/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "uxresearch": {
+      "title": "Nielsen Norman Group：用户研究与可用性资料",
+      "url": "https://www.nngroup.com/articles/",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    },
+    "reference": {
+      "title": "roadmap.sh 路线目录：形式与覆盖对照",
+      "url": "https://roadmap.sh/roadmaps",
+      "checked": "2026-11-21",
+      "kind": "目录或学习索引"
+    },
+    "ossu": {
+      "title": "OSSU：计算机科学课程组织参考",
+      "url": "https://github.com/ossu/computer-science",
+      "checked": "2026-11-21",
+      "kind": "目录或学习索引"
+    },
+    "seed": {
+      "title": "字节 Seed：高校人才招聘实例",
+      "url": "https://seed.bytedance.com/zh/seedearlycareer",
+      "checked": "2026-11-21",
+      "kind": "招聘项目实例；不能外推录取难度"
+    },
+    "nvidia": {
+      "title": "NVIDIA：2026 编译器应届岗位实例",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228",
+      "checked": "2026-11-21",
+      "kind": "历史/当前招聘页面实例；申请开放状态需重新核对"
+    },
+    "mermaid": {
+      "title": "GitHub Docs：Mermaid 图表支持",
+      "url": "https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams",
+      "checked": "2026-11-21",
+      "kind": "课程或官方资料"
+    }
+  },
+  "familyChanges": {
+    "软件产品": {
+      "add": "需求与验收规格；AI 编码的上下文、差异审查、测试与回滚；按需集成模型",
+      "keep": "编程、数据建模、调试、网络、安全和可维护性",
+      "reduce": "反复手写样板、框架 API 死记、同质化 CRUD 练习",
+      "risk": "把生成速度误当工程能力；没有理解就接受修改",
+      "source": "tools"
+    },
+    "系统与云": {
+      "add": "AI 辅助排障的证据核验；模型工作负载；资源、权限与成本；自动化变更控制",
+      "keep": "OS、网络、并发、体系结构、故障模型和测量",
+      "reduce": "重复配置与命令记忆；没有测量的调参",
+      "risk": "直接执行生成的运维命令；用 AI 输出替代运行证据",
+      "source": "sre"
+    },
+    "数据与决策": {
+      "add": "生成 SQL 的核验；数据来源与许可；AI 评测数据；结果不确定性与解释",
+      "keep": "统计、口径、数据质量、因果边界和领域理解",
+      "reduce": "重复做图与模板报表；堆砌模型名称",
+      "risk": "虚构数据、错误连接、泄漏和因果误读被流畅语言掩盖",
+      "source": "ml"
+    },
+    "AI 与机器学习": {
+      "add": "任务级评测；数据与模型版本；失败恢复；权限、延迟与成本；简单方案基线",
+      "keep": "数学、数据、软件工程、实验设计与独立调试",
+      "reduce": "只学框架封装；只调提示词；无验证的榜单追逐",
+      "risk": "应用、研究、系统三类能力混淆；小实验外推到大规模生产",
+      "source": "hf"
+    },
+    "安全与隐私": {
+      "add": "模型与 Agent 的输入、工具、数据和供应链威胁；AI 检测结果复核",
+      "keep": "授权、根因分析、威胁建模、验证与证据链",
+      "reduce": "只依赖扫描器和生成式报告；背漏洞名称",
+      "risk": "忽视越权、提示注入和敏感数据；混淆猜测与已验证漏洞",
+      "source": "owasp"
+    },
+    "硬件与实体系统": {
+      "add": "AI 辅助 HDL/固件审查；软硬协同；端侧模型；仿真与实机对照",
+      "keep": "电路、时序、控制、调试、功耗和物理约束",
+      "reduce": "重复寄存器样板；不带测量的演示",
+      "risk": "生成代码不满足时序或安全约束；模拟成功被当实机可靠",
+      "source": "robotics"
+    },
+    "图形与互动": {
+      "add": "AI 素材与代码的许可、质量和管线；生成内容可控性；真实交互评测",
+      "keep": "几何、渲染、性能、交互和美术流程",
+      "reduce": "仅复制教程场景；手工重复资产流程",
+      "risk": "画面好看但不可玩、不可维护或性能不达标",
+      "source": "graphics"
+    },
+    "产品设计与交付": {
+      "add": "AI 能力边界；人机接管；任务级评测；成本、数据与供应商约束",
+      "keep": "用户研究、沟通、判断、业务与交付责任",
+      "reduce": "模板 PRD/幻灯片；无用户证据的原型数量",
+      "risk": "把演示当需求验证；将自动化收益当成既成事实",
+      "source": "agents"
+    },
+    "科研与行业交叉": {
+      "add": "AI 文献检索核验；辅助实验；数据污染、复现与领域有效性",
+      "keep": "数学证明、研究设计、学科基础和独立贡献",
+      "reduce": "无问题意识的论文收集；重复低价值实验",
+      "risk": "伪造引用；代理指标不等同科学、金融或临床有效性",
+      "source": "acm"
+    },
+    "升学与职业形态": {
+      "add": "形成可核验的个人贡献；AI 辅助材料查错；核对当年资格、费用与规则",
+      "keep": "基础、诚信、沟通、交付与持续学习",
+      "reduce": "模板化材料；证书堆积；将工具熟练度当全部竞争力",
+      "risk": "地区和机构差异；收入、录取与岗位无保证",
+      "source": "acm"
+    },
+    "未来工作假设": {
+      "add": "验证采用条件、真实问题与经济性；沿现实基础路线积累",
+      "keep": "可迁移的系统、数据、研究与协作能力",
+      "reduce": "追逐未稳定的职位名称；凭趋势预支设备和培训成本",
+      "risk": "已有技术方向不等于新职称；独立岗位与需求规模尚不确定",
+      "source": "jobs"
+    }
+  },
+  "overrides": {
+    "frontend": "增加生成式界面、流式交互、引用与失败状态；保留浏览器、可访问性和性能；减少复制页面练习。",
+    "backend": "增加模型调用的异步任务、幂等、预算与权限；保留事务和一致性；减少模板接口堆砌。",
+    "qa": "增加非确定输出的评测、评分校准与失败分组；保留测试设计；减少只做脚本录制。",
+    "sdet": "增加 AI 修改验证、性质测试与模型回归；保留质量工程；减少脆弱的表面断言。",
+    "compiler": "增加 AI 工作负载、张量/算子编译的试学；保留语言语义、IR 和优化正确性。",
+    "dbkernel": "可选学向量索引、检索混合负载和数据新鲜度；保留事务、恢复和查询原理。",
+    "devtools": "增加代码 Agent 的上下文、执行环境、审查与效果评测；保留构建、索引和工具可靠性。",
+    "agents": "先比较确定性工作流，再增加自主决策；把恢复、权限和任务完成率设为验收条件。",
+    "context": "把提示词、检索、记忆、工具、状态放入整体上下文设计；用对照实验判断是否有效。",
+    "evals": "增加评分器校准、污染检查、错误分类和真实任务覆盖；不把自动评分视为真值。",
+    "humanfeedback": "增加任务设计、反馈质量与模型效果闭环；保留抽检、人员培训和领域判断。",
+    "alignment": "区分应用防护、行为安全和机制解释；研究结论必须有对照、干预与可复现证据。",
+    "rlenv": "训练环境与验证器是工程主线；必须检查奖励投机、数据污染和隔离开销。",
+    "sandbox": "模型的工具执行需要系统级隔离和有界权限；不能只靠提示词限制。",
+    "pm": "增加 AI 是否适用、失败体验、成本和接管判断；保留用户与商业问题。",
+    "writer": "增加示例自动验证、版本和可检索的知识结构；保留准确性与读者任务；减少模板文字生产。",
+    "robotics": "保留控制、标定与传感；增加学习策略、数据闭环和仿真到现实验证。",
+    "quant": "AI 可以辅助研究代码，但不得省略交易成本、样本外验证和风险约束。",
+    "bio": "辅助模型与医学应用需领域验证；公开数据效果不能作为临床结论。",
+    "fullstack": "增加 AI 原型的需求核验、模型功能评测与持续维护；保留完整用户流程和全栈调试；减少同质化演示产品。",
+    "android": "增加端侧/云端模型的功耗、隐私、离线与失败体验；保留生命周期、平台权限和并发。",
+    "ios": "增加端侧模型、权限与数据边界的试学；验证能耗、延迟和失败状态；保留原生平台基础。",
+    "crossplatform": "AI 可辅助跨端样板和迁移，但必须检查平台差异、原生互操作和性能，不能只验证一台设备。",
+    "desktop": "增加本地 Agent、文件访问与代码执行的边界；保留进程、更新、资源和崩溃恢复。",
+    "enterprise": "增加业务知识接入、权限继承与 AI 结果审计；保留流程建模、数据迁移和客户验收。",
+    "performance": "增加模型调用与 Agent 的负载、质量约束、成本测量；保留可复现基准和瓶颈分析，避免只比较单次速度。",
+    "devops": "增加 AI 辅助运维的变更审查、执行权限和回滚；保留流水线、制品与环境一致性。",
+    "sre": "增加 Agent 操作审计与模型服务的延迟、依赖和成本监控；诊断结论仍需日志、指标与实验支持。",
+    "cloud": "增加 GPU 资源、模型负载与执行隔离的试学；保留调度、租户隔离、故障域和控制面。",
+    "network": "增加 AI 工作负载通信与工具执行出口控制的试学；保留协议、抓包与网络测量。",
+    "dba": "AI 可辅助 SQL 和故障解释，但备份恢复、权限与变更必须实测；按业务需要选学向量检索运维。",
+    "storage": "增加模型数据与检查点负载的分析；保留一致性、复制、恢复及故障模型。",
+    "os": "增加不可信 Agent 执行的隔离和资源边界试学；保留内存、调度、文件与同步机制。",
+    "hpc": "增加模型算子、低精度和通信负载；保留数值误差、体系结构与实测，不以基准调参替代原理。",
+    "itsupport": "增加 AI 辅助服务台与自动化审批边界；保留身份核验、恢复、资产和用户沟通。",
+    "dataeng": "增加模型数据、评测集、来源许可和污染检查；保留质量、血缘、增量与可重跑。",
+    "analyticseng": "增加可被 AI 正确查询的语义层、指标定义和自动校验；保留口径与数据责任。",
+    "analyst": "生成 SQL 和图表后必须检查粒度、连接、样本与分母；把更多训练放在问题定义、统计与行动解释。",
+    "datascience": "增加 AI 辅助实验的核验和模型决策风险；保留识别假设、对照与稳健性，不能用流畅解释替代因果证据。",
+    "recommend": "增加生成式/表征模型的对照实验与成本分析；保留偏差、反馈回路、排序和在线效果验证。",
+    "search": "增加混合检索、重排与 RAG 的引用评测；保留倒排索引、相关性、延迟和新鲜度。",
+    "optimization": "增加预测与优化结合的试学；生成方案必须满足约束；保留求解方法、可行性与最优性边界。",
+    "governance": "增加模型与 Agent 数据来源、训练使用、删除及访问责任；保留目录、质量、口径和执行控制。",
+    "mleng": "增加模型与数据版本、可靠评测和系统交付；保留简单基线和误差分析，不默认最复杂模型最佳。",
+    "llm": "将数据、训练效率、评测污染和后训练接口纳入路线；保留数学、优化、实验设计与小规模实现。",
+    "posttrain": "除微调框架外增加偏好数据质量、奖励投机和能力退化检查；保留受控比较与计算预算。",
+    "rl": "增加可验证奖励、训练环境和工具任务；保留 MDP、探索与策略优化，避免只会调用后训练库。",
+    "cv": "增加视觉基础模型、跨场景评测和高效适配；保留图像原理、数据质量和失败分析。",
+    "audio": "增加基础音频模型与流式交互；保留信号处理、噪声、口音、延迟与质量评测。",
+    "multimodal": "增加跨模态对齐、数据许可和任务级评测；保留单模态基础与对照，不仅凭生成观感。",
+    "mlsystems": "把自动微分、算子、并行与容错结合模型负载学习；保留正确性、数值稳定性和系统测量。",
+    "inference": "联合学习量化、缓存、调度与服务；用质量约束下的延迟分布、吞吐和成本验收。",
+    "mlops": "增加大模型、提示/工具/检索版本与任务评测；保留传统数据、模型、灰度、监控与回滚。",
+    "aidata": "增加合成数据与反馈闭环，但必须核对许可、去重、污染、偏差和下游效果。",
+    "edgeai": "增加设备上模型压缩与适配；同时测量效果、功耗、内存和延迟，保留硬件约束。",
+    "aigovernance": "将模型清单、责任、评测与控制证据连接起来；核对适用地区和版本，避免仅生成合规模板。",
+    "appsec": "增加生成代码、模型接口与 Agent 工具的威胁建模；保留身份权限、根因和修复验证。",
+    "cloudsec": "增加模型服务、Agent 凭证与执行沙箱边界；保留 IAM、多租户和供应链控制。",
+    "soc": "AI 可辅助告警归纳，但检测与响应要保留证据、误报检查和人工升级；试学 AI 系统日志。",
+    "pentest": "增加 AI 应用与工具链攻击面；仍以明确授权、可复现验证和修复建议作为交付。",
+    "reverse": "AI 可辅助反汇编解释与样本分析；保留实际运行验证、根因和缓解机制，避免接受虚构控制流。",
+    "forensics": "增加生成内容与 Agent 行为记录的证据核验；保留证据链、时间线和对推断的明确标注。",
+    "crypto": "AI 可辅助证明与实现探索，不能替代安全模型、证明与审查；不把模型建议当密码协议安全依据。",
+    "privacy": "增加训练与模型调用的数据流、供应商与留存评估；规则适用性仍需专业核对与可执行控制。",
+    "aisec": "把提示注入、数据泄漏、工具权限与供应链作为完整系统威胁处理；不把提示词过滤当全部防线。",
+    "embedded": "增加端侧模型与生成固件的审查；保留中断、时序、资源、功耗和设备恢复实测。",
+    "driver": "AI 辅助驱动代码必须核对硬件手册、内核接口和并发；保留板级调试与实际设备验证。",
+    "fpga": "AI 可生成 HDL，但需仿真、断言、时序与综合检查；保留数字逻辑和硬件并行思维。",
+    "chipverify": "增加生成 RTL 的性质与回归验证、AI 辅助缺陷定位；保留验证计划、覆盖和形式方法。",
+    "chiparch": "增加 AI 加速工作负载与数据移动分析；保留架构模型、约束和校验，避免以算力标称值代替有效性能。",
+    "physical": "AI 可辅助设计空间探索，但工艺、时序、功耗和签核约束不能省略；本路线仍需微电子训练。",
+    "iot": "增加现场 AI 决策的接管、离线与安全边界；保留协议、可靠性和工业约束。",
+    "autonomy": "增加学习型规划与多模态试学；保留场景回放、定位控制、系统安全和长尾验证。",
+    "gameplay": "增加 AI 辅助代码、内容与角色行为的试学；保留游戏性、可控性、帧时间和玩家反馈。",
+    "gameserver": "增加模型驱动角色或内容服务的预算与状态边界；保留同步、一致性、作弊分析与网络性能。",
+    "engine": "增加神经渲染和生成资产管线的试学；保留几何、着色、资源与 GPU 性能原理。",
+    "ta": "增加生成资产的许可、风格控制、修订与管线集成；保留美术判断、工具和实时性能。",
+    "xr": "增加多模态输入、空间 Agent 与隐私评测；保留追踪、延迟、舒适度与用户验证。",
+    "simulation": "增加生成场景、代理模型和仿真数据；保留物理校准、误差与现实验证，不把画面当预测能力。",
+    "aipm": "用任务评测、失败体验、数据与成本约束规划 AI 功能；先证明需求，再选模型或 Agent。",
+    "ux": "增加不确定输出、等待、引用、纠错与接管交互；保留用户研究、可访问性和视觉层级。",
+    "uxresearch": "增加自动化偏差、信任校准、人机协作与长期使用研究；保留抽样、伦理和研究有效性。",
+    "designeng": "增加 AI 界面原型与多状态验证；保留可访问性、组件和真实任务体验，不只追求演示速度。",
+    "devrel": "增加可复现的 AI 工具示例与限制说明；保留技术准确性和开发者成功，减少重复宣传内容。",
+    "solutions": "增加数据条件、模型风险、成本与失败接管的概念验证；保留客户约束和可验收承诺。",
+    "implementation": "增加 AI 组件的版本、权限、数据接入与运行手册；保留迁移、培训、排障和验收。",
+    "consulting": "增加 AI 工作流和组织影响的实证评估；保留业务分析，不把通用演示当转型收益。",
+    "tpm": "增加模型不确定性、评测门槛、数据和外部供应依赖；保留范围、风险、协作与交付。",
+    "architect": "增加模型、Agent、数据与工具的信任边界和成本设计；保留系统演进、故障和组织约束。",
+    "em": "增加团队 AI 使用规范、审查、效果评估和培养；以团队质量与成长评价，避免用生成代码量考核。",
+    "theory": "AI 可辅助猜想与证明探索；仍需逐步验证证明和边界，不能把模型确信程度当正确性。",
+    "formal": "增加 AI 生成修改的规格与验证、模型辅助证明；保留逻辑、语义和工具可信基。",
+    "science": "增加科学模型与仿真的混合方法；保留误差、守恒或领域约束、对照和科学有效性。",
+    "gis": "增加地理基础模型与生成地图试学；保留投影、尺度、空间自相关与数据误差。",
+    "quantum": "AI 可辅助量子算法和工具代码；保留量子力学、噪声与经典基线，不把模拟器结果当硬件优势。",
+    "blockchain": "增加生成合约的审查与性质测试；保留协议、密码与安全，并核对所在地规则。",
+    "accessibility": "增加生成界面与 AI 交互的辅助技术测试；保留真实残障用户参与，不只依赖自动扫描。",
+    "grad": "AI 可辅助复习和材料核验；保留基础考试、研究训练与真实个人贡献，按目标院校当年规则准备。",
+    "abroad": "AI 可辅助语言与材料审查；保留真实经历、学术匹配与资助核对，不能虚构研究和推荐关系。",
+    "academia": "增加 AI 辅助研究的复现、引用与贡献核验；保留独立问题、学术诚信与教学能力。",
+    "public": "增加 AI 采购与使用的数据、安全和验收认知；保留业务流程、运行保障与当年招录资格核对。",
+    "startup": "AI 可降低部分原型工作量；仍须验证需求、获客、收费、质量与现金流，不能把开发快等同商业成立。",
+    "freelance": "增加 AI 辅助交付的责任、来源与维护边界；按可验收范围报价，并核算实际回款和支持成本。",
+    "opensource": "增加 AI 贡献的审查、来源与维护规则；保留社区治理、发布、安全和维护者负担判断。",
+    "education": "增加 AI 辅助教学与学习过程评估；保留学生独立能力和反馈，不把生成作业当学习成果。",
+    "aiapp": "把模型调用放入完整软件流程；增加任务级评测、检索来源、权限、成本和恢复；保留后端与用户需求。",
+    "fde": "除原型速度外增加行业流程、数据条件、部署与持续反馈；以客户验收和长期价值评估 AI 交付。"
+  }
+}
